@@ -41,5 +41,6 @@ astrapy
 tqdm
 jupyterlab
 notebook
+nbformat
 ipykernel
 tensorflow==2.16.2
